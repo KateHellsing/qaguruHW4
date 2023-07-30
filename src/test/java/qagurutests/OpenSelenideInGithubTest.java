@@ -1,4 +1,4 @@
-package qaguruTests;
+package qagurutests;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class OpenSelenideInGithubTest extends testjUnit5codeTest {
+public class OpenSelenideInGithubTest extends TestjUnit5codeTest {
 
     @BeforeAll
     static void beforeAll() {

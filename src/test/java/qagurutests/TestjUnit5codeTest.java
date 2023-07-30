@@ -1,6 +1,6 @@
-package qaguruTests;
+package qagurutests;
 
-public class testjUnit5codeTest {
+public class TestjUnit5codeTest {
     String code = "@ExtendWith({SoftAssertsExtension.class})\n" +
             "class Tests {\n" +
             "  @Test\n" +
